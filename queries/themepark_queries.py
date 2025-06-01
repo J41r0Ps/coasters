@@ -1,0 +1,1 @@
+themeparks_name_query = "SELECT name FROM coasters.themepark ORDER BY name"
